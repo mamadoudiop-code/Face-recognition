@@ -37,8 +37,3 @@ python main.py
 ```
 
 
-Image Only for Demonstration Purpose.
-
-## 🤖 Author
-<!--Remove the below lines and add yours -->
-[AnishLohiya](https://github.com/AnishLohiya)
