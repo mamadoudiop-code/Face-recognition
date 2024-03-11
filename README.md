@@ -36,9 +36,6 @@ Just open a terminal in the folder where your script is located and run the foll
 python main.py
 ```
 
-## 📺 Demo
-
-![demoimage](https://user-images.githubusercontent.com/87910771/150638214-207dbfea-1feb-4a71-8e55-56ba9dd04094.jpg)
 
 Image Only for Demonstration Purpose.
 
